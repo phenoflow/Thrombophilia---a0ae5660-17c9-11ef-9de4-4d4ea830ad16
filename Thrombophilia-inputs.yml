@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/thrombophilia-deficiency---primary.py
+inputModule3:
+  class: File
+  path: python/thrombophilia-leiden---primary.py
+inputModule4:
+  class: File
+  path: python/thrombophilia-mutation---primary.py
+inputModule5:
+  class: File
+  path: python/thrombophilia---primary.py
+inputModule6:
+  class: File
+  path: python/thrombophilia-plasma---primary.py
+inputModule7:
+  class: File
+  path: python/primary-thrombophilia---primary.py
+inputModule8:
+  class: File
+  path: python/antiphospholipid-thrombophilia---primary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
